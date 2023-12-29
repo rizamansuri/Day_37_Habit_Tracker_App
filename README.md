@@ -1,7 +1,7 @@
 
 # The Habit Tracking App 📝
 
-With this app, you can get a GitHub like graph that expresses the degree of your daily various activities on a basis with a vivid gradation.
+With this app, you can get a GitHub like graph 📅 that expresses the degree of your daily various activities on a basis with a vivid gradation.
 
 - Pixela website - https://pixe.la/
   
